@@ -8,7 +8,7 @@ thumbnail: contact-vh-twitter.png
 
 ## Vehichaul Terms of Service and Privacy Policy
 
-By accessing the website at http://vehichaul.com or mobile applications, Customer (“you”) are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in the VehicHaul website are protected by applicable copyright and trademark law.
+By accessing the website at http://cdn.vehichaul.com or mobile applications, Customer (“you”) are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in the VehicHaul website are protected by applicable copyright and trademark law.
 
 ### Definitions
 
