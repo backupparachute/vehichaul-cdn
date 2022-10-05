@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: vh
 title: Terms of Service
 subtitle: Terms of Service and Privacy Policy
 thumbnail: contact-vh-twitter.png

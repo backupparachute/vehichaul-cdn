@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Vehichaul {% if page.title %}: {{ page.title }}{% endif %}</title>
+    <script src='//code.jquery.com/jquery-1.11.2.min.js'></script>
+
+    <link rel="stylesheet" href="http://cdn.vehichaul.com/templates/skeleton/css/normalize.css">
+    <link rel="stylesheet" href="http://cdn.vehichaul.com/templates/skeleton/css/skeleton.css">
+    <link rel="stylesheet" href="http://cdn.vehichaul.com/templates/skeleton/css/vh-custom.css">
+
+    <style type="text/css">
+		body {
+		   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		   font-weight: 300;
+		}
+		h3 { margin: 1em;}
+    </style>
+    </head>
+    <body>
+
+
+      <div class="container">
+
+        <div class="row">
+          <div class="twelve column ">
+	  		<img src="/img/vh-logo-circle.png" class="u-max-full-width"/>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="twelve column ">
+            {{ content }}
+          </div>
+        </div>
+
+    </div>
+
+    </body>
+</html>
