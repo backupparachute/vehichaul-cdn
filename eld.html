@@ -1,0 +1,47 @@
+---
+layout: master
+title: Secure Transmit Test
+sitemap: false
+scripts:
+  - /libs/jquery/dist/jquery.min.js
+---
+
+---
+layout: master
+title: ELD Provider Request
+---
+
+
+<div>
+	<h4>Hello, please fill out this form to join, afterward you will be automatically taken to the next step to finish uploading your application and related paperwork. Thanks.</h4>
+
+<form id="contactForm" class="contact-form" novalidate="novalidate" action="https://vehichaul.securetransmit.io/web/vehichaul_web_eld_request/form?token=iBfcNtDgTNnda9uX1HB2wuxS" method="POST">
+	<div>
+	<label>Name  <font color="red">*</font></label>
+      <input type="text" name="name" placeholder="Name *" required="true" aria-required="true">
+	</div>
+	<div>
+		<label>Email  <font color="red">*</font></label>
+      <input type="email" name="email" placeholder="Email *" required="true" aria-required="true">
+	</div>
+	<div>
+		<label>ELD Provider  <font color="red">*</font></label>
+      <input type="text" name="eld_provider" placeholder="ELD Provider Name *" required="true" aria-required="true">
+	</div>
+	<div>
+		<label>API Token </label>
+      <input type="text" name="token" placeholder="authentication token" >
+	</div>
+	<div>
+		<label>URL <font color="red">*</font></label>
+      <input type="text" name="url" placeholder="ELD Website *" required="true" aria-required="true">
+	</div>
+	<div>
+	 <label>Notes</label>
+	  <textarea name="notes" placeholder="Additional Information" required="" aria-required="true"></textarea>
+	</div>
+
+      <button class="btn" type="submit">Submit</button>
+  </form>
+
+</div>
